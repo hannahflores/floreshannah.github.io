@@ -1,12 +1,11 @@
 <html>
 <head>
-<title> Resume: Hannah Franchesca L. Flores </title>
+<title> Hannah Franchesca L. Flores </title>
 </head>
-
 <body bgcolor="#658930">
 
-<!-- Large, black script heading-->
-<h1><font face="Times New Roman" size="9" color="black"></h1>
+
+<h1><font face="Times New Roman" size="8" color="black"> <p align="center">HANNAH FRANCHESCA L. FLORES</font></h1></p>
 <p align="center"> #418 Bangkal Street, Sto. Rosario, Paombong, Bulacan 
 <p align="center"> 09955555284 
 <p align="center">floreshannah0328@gmail.com</a></p>
