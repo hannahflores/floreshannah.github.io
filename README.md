@@ -1,7 +1,6 @@
 <html>
 <head>
 <title> Hannah Franchesca L. Flores </title>
-</head>
 <body bgcolor="#658930">
 
 
@@ -35,4 +34,5 @@ To acquire personal and hands-on experience and be part of a well-known and best
 </ol>
 
 </body>
+</head>
 </html>
